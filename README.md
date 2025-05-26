@@ -1,1 +1,2 @@
 # FlyLight-Web-Wrapper
+This FlyLight_Web_Wrapper is a Python tool that automates data extraction from the FlyLight database at Janelia. It simulates user interactions on the web interface to submit genotypes, perform searches, and extract detailed tables including line identifiers, associated neurons, and expression data such as intensity and distribution. The resulting data is structured into clean, analysis-ready formats like CSV. This tool simplifies large-scale data collection for neurogenetics and Drosophila research.
